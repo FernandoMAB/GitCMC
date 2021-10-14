@@ -25,7 +25,20 @@
             "MNU_AA_RP":"Recuperar Productos Santiago Cuesta",
             "MNU_SCC_NTS":"EVALUACIÓN 2 Santiago Cuesta",
             "MNU_TND_SCC":"Tienda Santiago Cuesta",
-            "MNU_SCC_CALCU":"Calculadora Santiago Cuesta"
+            "MNU_SCC_CALCU":"Calculadora Santiago Cuesta",
+			"MNU_JET_HBT":"Habitats Juan Esteban Torres Garzon",
+			"MNU_JET_PRM":"Calificaciones Juan Torres",
+			"MNU_JET_CLC1":"Calculadora Juan Torres",
+			"MNU_JET_CAF":"Menu Calificaciones JETG",
+			"MNU_JET_CLT":"Menu Crear Cliente JETG",
+			"MNU_JET_TIE":"Menu Insertar Eliminar",
+			"MNU_JETTI": "Menu Consultar",
+			"MNU_TIS": "Menu ListasTiendas",
+			"MNULSTJET": "ListaClientes",
+			"FRM_JETG" : "Formularios JETG",
+			"MNU_FAJET1" : "Formulario Insertar producto",
+			"MN_GRID_PRO_JET": "ConsultaProductos GRID",
+			"MU_CLIJET" : "Busqueda Clientes"
             
         }
     }
