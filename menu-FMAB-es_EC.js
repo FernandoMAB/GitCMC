@@ -26,6 +26,7 @@
             "MNU_SCC_NTS":"EVALUACIÓN 2 Santiago Cuesta",
             "MNU_TND_SCC":"Tienda Santiago Cuesta",
             "MNU_SCC_CALCU":"Calculadora Santiago Cuesta",
+			"MNU_JET_BVD":"Bienvenida Juan Esteban Torres Garzon",
 			"MNU_JET_HBT":"Habitats Juan Esteban Torres Garzon",
 			"MNU_JET_PRM":"Calificaciones Juan Torres",
 			"MNU_JET_CLC1":"Calculadora Juan Torres",
