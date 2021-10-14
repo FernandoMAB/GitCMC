@@ -14,7 +14,18 @@
             "MNU_FMAB":"Evaluacion FMAB",
             "MNU_FMAB_EVI":"Ingresar Producto",
             "MNU_FMAB_EVR":"Productos",
-            "MNU_FMAB_EV2":"Recuperar Clientes"
+            "MNU_FMAB_EV2":"Recuperar Clientes", 
+            "MNU_SMCMC":"Semillero",
+            "MNU_EVALUACION":"Evaluacion",
+            "MNU_SCC_CALI":"Calificaciones Santiago Cuesta",
+            "MNU_SCC_CRCLI":"Crear Cliente Santiago Cuesta",
+            "MNU_B_BC":"Buscar Cliente Santiago Cuesta",
+            "MNU_SCC_RC":"Recuperar Clientes Santiago Cuesta",
+            "MNU_AA_CP":"Crear Producto Santiago Cuesta",
+            "MNU_AA_RP":"Recuperar Productos Santiago Cuesta",
+            "MNU_SCC_NTS":"EVALUACIÓN 2 Santiago Cuesta",
+            "MNU_TND_SCC":"Tienda Santiago Cuesta",
+            "MNU_SCC_CALCU":"Calculadora Santiago Cuesta"
             
         }
     }
