@@ -1,6 +1,44 @@
 {
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_CLIENTEIZ_948": {
+			"labels": [
+			]
+		},
+		"EN_PERSONAPB_913": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_EFSBXBFIISLOW_151": {
+			"blis": [
+			],
+			"entities": {
+				"EN_PERSONAPB_913": [
+					"AT70_APELLIDD913",
+					"AT89_NOMBREBB913",
+					"AT98_EDADIVYQ913"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_EFSBX_APELLIDOO_96050",
+				"LBL_EFSBX_EDADSZRGN_69243",
+				"LBL_EFSBX_NOMBRETYC_47963"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
 }
