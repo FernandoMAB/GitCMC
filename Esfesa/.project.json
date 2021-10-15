@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2024 BETA",
+	"moduleId": "EFSBX",
+	"modules": [
+		{
+			"moduleId": "EFSBX",
+			"moduleName": "efs",
+			"subModules": [
+				{
+					"subModuleId": "PREBA",
+					"subModuleName": "prueba"
+				}
+			]
+		}
+	],
+	"projectName": "Esfesa",
+	"subModuleId": "PREBA"
+}
