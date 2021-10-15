@@ -1,0 +1,20 @@
+{
+	"Entities": {
+		"EN_1YADLIBOK_364": {
+			"name": "Entidad1"
+		}
+	},
+	"PREBA": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_EFSBXULCEVFGC_775": {
+				"name": "FormularioJET"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}
