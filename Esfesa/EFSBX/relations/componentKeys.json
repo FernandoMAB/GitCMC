@@ -1,0 +1,20 @@
+{
+	"Entities": {
+		"EN_PERSONAPB_913": {
+			"name": "Persona"
+		}
+	},
+	"PREBA": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_EFSBXBFIISLOW_151": {
+				"name": "FormularioFMAB"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}
