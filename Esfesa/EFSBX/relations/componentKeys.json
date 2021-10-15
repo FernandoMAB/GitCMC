@@ -5,9 +5,6 @@
 		},
 		"EN_PERSONAPB_913": {
 			"name": "Persona"
-		},
-        "EN_1YADLIBOK_364": {
-			"name": "Entidad1"
 		}
 	},
 	"PREBA": {
@@ -16,9 +13,6 @@
 		"Forms": {
 			"T_EFSBXBFIISLOW_151": {
 				"name": "FormularioFMAB"
-			},
-            "T_EFSBXULCEVFGC_775": {
-				"name": "FormularioJET"
 			}
 		},
 		"Queries": {
@@ -27,4 +21,3 @@
 		}
 	}
 }
-
