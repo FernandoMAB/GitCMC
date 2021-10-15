@@ -1,10 +1,11 @@
 {
-    "EFSBX": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"EFSBX": {
+		"LBL": {
+			"LBL_EFSBX_APELLIDOO_96050": "Apellido",
+			"LBL_EFSBX_EDADSZRGN_69243": "Edad",
+			"LBL_EFSBX_NOMBRETYC_47963": "Nombre"
+		},
+		"MSG": {
+		}
+	}
 }

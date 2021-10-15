@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_PERSONAPB_913",
+			"isContextEntity": null,
+			"moduleId": "EFSBX",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}
