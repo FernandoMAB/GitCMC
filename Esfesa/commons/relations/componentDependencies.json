@@ -1,6 +1,40 @@
 {
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_1YADLIBOK_364": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_EFSBXULCEVFGC_775": {
+			"blis": [
+			],
+			"entities": {
+				"EN_1YADLIBOK_364": [
+					"AT37_NOMBRECA364",
+					"AT39_APELLIOO364",
+					"AT96_EDADDLSQ364"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_EFSBX_APELLIDOO_83129",
+				"LBL_EFSBX_EDADGAMJW_38891",
+				"LBL_EFSBX_NOMBREHKY_93714"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
 }
