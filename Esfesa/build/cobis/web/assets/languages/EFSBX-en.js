@@ -1,0 +1,8 @@
+{
+	"EFSBX": {
+		"LBL_EFSBX_APELLIDOO_26586": "Apellido",
+		"LBL_EFSBX_EDADBQENQ_60808": "Edad",
+		"LBL_EFSBX_NOMBREOZV_97321": "Nombre",
+		"LBL_EFSBX_SALUDARJP_59667": "Saludar"
+	}
+}
