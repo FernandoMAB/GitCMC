@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_CLIENTEIZ_948": {
+			"name": "Cliente"
+		},
 		"EN_PERSONAPB_913": {
 			"name": "Persona"
 		}
