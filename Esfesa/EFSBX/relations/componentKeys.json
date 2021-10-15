@@ -1,6 +1,12 @@
 {
 	"Entities": {
-		"EN_1YADLIBOK_364": {
+		"EN_CLIENTEIZ_948": {
+			"name": "Cliente"
+		},
+		"EN_PERSONAPB_913": {
+			"name": "Persona"
+		},
+        "EN_1YADLIBOK_364": {
 			"name": "Entidad1"
 		}
 	},
@@ -8,7 +14,10 @@
 		"CompositeForms": {
 		},
 		"Forms": {
-			"T_EFSBXULCEVFGC_775": {
+			"T_EFSBXBFIISLOW_151": {
+				"name": "FormularioFMAB"
+			},
+            "T_EFSBXULCEVFGC_775": {
 				"name": "FormularioJET"
 			}
 		},
@@ -18,3 +27,4 @@
 		}
 	}
 }
+

@@ -2,13 +2,47 @@
 	"CompositeForms": {
 	},
 	"Entities": {
-		"EN_1YADLIBOK_364": {
+		"EN_CLIENTEIZ_948": {
+			"labels": [
+			]
+		},
+		"EN_PERSONAPB_913": {
+			"labels": [
+			]
+		},
+        "EN_1YADLIBOK_364": {
 			"labels": [
 			]
 		}
 	},
 	"Forms": {
-		"T_EFSBXULCEVFGC_775": {
+		"T_EFSBXBFIISLOW_151": {
+			"blis": [
+			],
+			"entities": {
+				"EN_PERSONAPB_913": [
+					"AT70_APELLIDD913",
+					"AT89_NOMBREBB913",
+					"AT98_EDADIVYQ913"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_EFSBX_APELLIDOO_96050",
+				"LBL_EFSBX_EDADSZRGN_69243",
+				"LBL_EFSBX_NOMBRETYC_47963"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+        "T_EFSBXULCEVFGC_775": {
 			"blis": [
 			],
 			"entities": {
